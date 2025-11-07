@@ -1,0 +1,231 @@
+holding,unit,schedule,treatment
+1,43124559,0,donothing
+1,43124559,1,below_25
+1,43124559,2,above_25
+1,43124559,3,even_25
+1,43124559,4,clearcut_25
+1,43124560,0,donothing
+1,43124560,1,below_25
+1,43124560,2,above_25
+1,43124560,3,even_25
+1,43124560,4,clearcut_25
+1,43124560,5,below_5
+1,43124560,6,below_5 + below_25
+1,43124560,7,below_5 + above_25
+1,43124560,8,below_5 + even_25
+1,43124560,9,below_5 + clearcut_25
+1,43124560,10,above_5
+1,43124560,11,above_5 + below_25
+1,43124560,12,above_5 + above_25
+1,43124560,13,above_5 + even_25
+1,43124560,14,above_5 + clearcut_25
+1,43124560,15,even_5
+1,43124560,16,even_5 + below_25
+1,43124560,17,even_5 + above_25
+1,43124560,18,even_5 + even_25
+1,43124560,19,even_5 + clearcut_25
+1,43124561,0,donothing
+1,43124561,1,below_25
+1,43124561,2,above_25
+1,43124561,3,first_25
+1,43124561,4,even_25
+1,43124562,0,donothing
+1,43124562,1,below_25
+1,43124562,2,above_25
+1,43124562,3,even_25
+1,43124562,4,below_5
+1,43124562,5,below_5 + below_25
+1,43124562,6,below_5 + above_25
+1,43124562,7,below_5 + even_25
+1,43124562,8,below_5 + clearcut_25
+1,43124562,9,above_5
+1,43124562,10,above_5 + below_25
+1,43124562,11,above_5 + above_25
+1,43124562,12,above_5 + even_25
+1,43124562,13,even_5
+1,43124562,14,even_5 + below_25
+1,43124562,15,even_5 + above_25
+1,43124562,16,even_5 + even_25
+1,43124562,17,even_5 + clearcut_25
+1,43124563,0,donothing
+1,43124563,1,below_25
+1,43124563,2,above_25
+1,43124563,3,even_25
+1,43124563,4,clearcut_25
+1,43124564,0,donothing
+1,43124564,1,below_25
+1,43124564,2,above_25
+1,43124564,3,even_25
+1,43124564,4,below_5
+1,43124564,5,below_5 + below_25
+1,43124564,6,below_5 + above_25
+1,43124564,7,below_5 + even_25
+1,43124564,8,above_5
+1,43124564,9,above_5 + below_25
+1,43124564,10,above_5 + above_25
+1,43124564,11,above_5 + even_25
+1,43124564,12,even_5
+1,43124564,13,even_5 + below_25
+1,43124564,14,even_5 + above_25
+1,43124564,15,even_5 + even_25
+1,43124565,0,donothing
+1,43124565,1,below_25
+1,43124565,2,above_25
+1,43124565,3,even_25
+1,43124565,4,below_5
+1,43124565,5,below_5 + below_25
+1,43124565,6,below_5 + above_25
+1,43124565,7,below_5 + even_25
+1,43124565,8,below_5 + clearcut_25
+1,43124565,9,above_5
+1,43124565,10,above_5 + below_25
+1,43124565,11,above_5 + above_25
+1,43124565,12,above_5 + even_25
+1,43124565,13,even_5
+1,43124565,14,even_5 + below_25
+1,43124565,15,even_5 + above_25
+1,43124565,16,even_5 + even_25
+1,43124565,17,even_5 + clearcut_25
+1,43124566,0,donothing
+1,43124566,1,below_25
+1,43124566,2,above_25
+1,43124566,3,even_25
+1,43124566,4,clearcut_25
+1,43124567,0,donothing
+1,43124567,1,below_25
+1,43124567,2,above_25
+1,43124567,3,even_25
+1,43124567,4,clearcut_25
+1,43124567,5,below_5
+1,43124567,6,below_5 + below_25
+1,43124567,7,below_5 + above_25
+1,43124567,8,below_5 + even_25
+1,43124567,9,below_5 + clearcut_25
+1,43124567,10,above_5
+1,43124567,11,above_5 + below_25
+1,43124567,12,above_5 + above_25
+1,43124567,13,above_5 + even_25
+1,43124567,14,above_5 + clearcut_25
+1,43124567,15,even_5
+1,43124567,16,even_5 + below_25
+1,43124567,17,even_5 + above_25
+1,43124567,18,even_5 + even_25
+1,43124567,19,even_5 + clearcut_25
+1,43124567,20,clearcut_5
+1,43124567,21,clearcut_5 + first_25
+1,43124568,0,donothing
+1,43124568,1,below_25
+1,43124568,2,above_25
+1,43124568,3,even_25
+1,43124568,4,clearcut_25
+1,43124568,5,below_5
+1,43124568,6,below_5 + below_25
+1,43124568,7,below_5 + above_25
+1,43124568,8,below_5 + even_25
+1,43124568,9,below_5 + clearcut_25
+1,43124568,10,above_5
+1,43124568,11,above_5 + below_25
+1,43124568,12,above_5 + above_25
+1,43124568,13,above_5 + even_25
+1,43124568,14,above_5 + clearcut_25
+1,43124568,15,even_5
+1,43124568,16,even_5 + below_25
+1,43124568,17,even_5 + above_25
+1,43124568,18,even_5 + even_25
+1,43124568,19,even_5 + clearcut_25
+1,43124569,0,donothing
+1,43124569,1,below_25
+1,43124569,2,above_25
+1,43124569,3,even_25
+1,43124569,4,clearcut_25
+1,43124569,5,clearcut_5
+1,43124569,6,clearcut_5 + first_25
+1,43124570,0,donothing
+1,43124570,1,below_25
+1,43124570,2,above_25
+1,43124570,3,even_25
+1,43124570,4,clearcut_25
+1,43124570,5,clearcut_5
+1,43124570,6,clearcut_5 + first_25
+1,43124571,0,donothing
+1,43124571,1,below_25
+1,43124571,2,above_25
+1,43124571,3,even_25
+1,43124571,4,clearcut_25
+1,43124571,5,below_5
+1,43124571,6,below_5 + clearcut_25
+1,43124571,7,above_5
+1,43124571,8,above_5 + clearcut_25
+1,43124571,9,even_5
+1,43124571,10,even_5 + clearcut_25
+1,43124571,11,clearcut_5
+1,43124571,12,clearcut_5 + first_25
+1,43124572,0,donothing
+1,43124572,1,below_25
+1,43124572,2,above_25
+1,43124572,3,even_25
+1,43124572,4,clearcut_25
+1,43124572,5,below_5
+1,43124572,6,below_5 + below_25
+1,43124572,7,below_5 + above_25
+1,43124572,8,below_5 + even_25
+1,43124572,9,below_5 + clearcut_25
+1,43124572,10,above_5
+1,43124572,11,above_5 + below_25
+1,43124572,12,above_5 + above_25
+1,43124572,13,above_5 + even_25
+1,43124572,14,above_5 + clearcut_25
+1,43124572,15,even_5
+1,43124572,16,even_5 + clearcut_25
+1,43124572,17,clearcut_5
+1,43124572,18,clearcut_5 + first_25
+1,43124573,0,donothing
+1,43124573,1,below_25
+1,43124573,2,above_25
+1,43124573,3,first_25
+1,43124573,4,even_25
+1,43124574,0,donothing
+1,43124574,1,below_25
+1,43124574,2,above_25
+1,43124574,3,even_25
+1,43124574,4,clearcut_25
+1,43124574,5,below_5
+1,43124574,6,below_5 + below_25
+1,43124574,7,below_5 + above_25
+1,43124574,8,below_5 + even_25
+1,43124574,9,below_5 + clearcut_25
+1,43124574,10,above_5
+1,43124574,11,above_5 + below_25
+1,43124574,12,above_5 + above_25
+1,43124574,13,above_5 + even_25
+1,43124574,14,above_5 + clearcut_25
+1,43124574,15,even_5
+1,43124574,16,even_5 + below_25
+1,43124574,17,even_5 + above_25
+1,43124574,18,even_5 + even_25
+1,43124574,19,even_5 + clearcut_25
+1,43124575,0,donothing
+1,43124575,1,clearcut_25
+1,43124576,0,donothing
+1,43124576,1,below_25
+1,43124576,2,above_25
+1,43124576,3,even_25
+1,43124576,4,clearcut_25
+1,43124576,5,clearcut_5
+1,43124576,6,clearcut_5 + first_25
+1,43124577,0,donothing
+1,43124577,1,below_25
+1,43124577,2,above_25
+1,43124577,3,even_25
+1,43124578,0,donothing
+1,43124578,1,clearcut_25
+1,43124579,0,donothing
+1,43124579,1,below_25
+1,43124579,2,above_25
+1,43124579,3,first_25
+1,43124579,4,even_25
+1,43124580,0,donothing
+1,43124580,1,below_25
+1,43124580,2,above_25
+1,43124580,3,even_25
+1,43124580,4,clearcut_25
